@@ -1,0 +1,38 @@
+# Key Information {.unnumbered}
+
+This is the Spring 2025 syllabus for PQHS / CRSP 500: Observational Studies, taught by Professor Thomas Love. 
+
+- Thanks to Dr. Love’s recovery from a broken leg and ankle surgery, this year’s 500 class will be held **remotely** before Spring Break, and then **in person** starting March 20. See the [Course Calendar](https://thomaselove.github.io/500-2025/calendar.html) for more details.
+
+## Course Website {.unnumbered}
+
+The course website, with links to everything else you'll need, is at <https://thomaselove.github.io/500-2025>. 
+
+## Working With This Document {.unnumbered}
+
+1. This document includes multiple sections. Use the table of contents to navigate, and the search box as needed.
+2. A PDF download of this document is available by clicking the Acrobat icon next to the title at the top left of the screen.
+3. The document will be updated occasionally through the semester.
+
+## Course Text {.unnumbered}
+
+During the course, we will read Paul Rosenbaum’s 2023 book *Causal Inference*, published by MIT Press, which is available [as an e-book or in paperback](https://www.amazon.com/Causal-Inference-Press-Essential-Knowledge/dp/0262545195) for under $15. The ISBN-13 number is 978-0262545198. The schedule for reading the book is part of the Course Calendar.
+
+Additional reading materials are scheduled on [the Calendar](https://thomaselove.github.io/500-2025/calendar.html), and are gathered on the [Sources page](https://github.com/THOMASELOVE/500-sources) on our website.
+
+## Getting Help {.unnumbered}
+
+To get help with anything related to the course, email Dr. Love at **Thomas** dot **Love** at **case** dot **edu**.
+
+## Emergency? {.unnumbered}
+
+What if my situation changes (for any reason) during the semester?
+
+If you need to miss a session, just review the materials (including the class recording, if available) and move on, and please feel encouraged to ask for help.
+
+If an emergency arises that will keep you from timely completion of an assignment, send an email to us saying the following:
+
+> I have an emergency that will keep me from completing (*list things you're worried about completing*) in a timely fashion. I will contact you again when I am able to make plans.
+
+- We will respond with "OK" and temporarily excuse you from things until **you** send a "re-connection" email to make plans for making up the work you missed, at which time he'll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.
+

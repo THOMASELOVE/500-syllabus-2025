@@ -1,0 +1,322 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "",
+    "text": "Key Information\nThis is the Spring 2025 syllabus for PQHS / CRSP 500: Observational Studies, taught by Professor Thomas Love.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "index.html#course-website",
+    "href": "index.html#course-website",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "Course Website",
+    "text": "Course Website\nThe course website, with links to everything else you’ll need, is at https://thomaselove.github.io/500-2025.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "index.html#working-with-this-document",
+    "href": "index.html#working-with-this-document",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "Working With This Document",
+    "text": "Working With This Document\n\nThis document includes multiple sections. Use the table of contents to navigate, and the search box as needed.\nA PDF download of this document is available by clicking the Acrobat icon next to the title at the top left of the screen.\nThe document will be updated occasionally through the semester.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "index.html#course-text",
+    "href": "index.html#course-text",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "Course Text",
+    "text": "Course Text\nDuring the course, we will read Paul Rosenbaum’s 2023 book Causal Inference, published by MIT Press, which is available as an e-book or in paperback for under $15. The ISBN-13 number is 978-0262545198. The schedule for reading the book is part of the Course Calendar.\nAdditional reading materials are scheduled on the Calendar, and are gathered on the Sources page on our website.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "index.html#getting-help",
+    "href": "index.html#getting-help",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "Getting Help",
+    "text": "Getting Help\nTo get help with anything related to the course, email Dr. Love at Thomas dot Love at case dot edu.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "index.html#emergency",
+    "href": "index.html#emergency",
+    "title": "500 Syllabus for Spring 2025",
+    "section": "Emergency?",
+    "text": "Emergency?\nWhat if my situation changes (for any reason) during the semester?\nIf you need to miss a session, just review the materials (including the class recording, if available) and move on, and please feel encouraged to ask for help.\nIf an emergency arises that will keep you from timely completion of an assignment, send an email to us saying the following:\n\nI have an emergency that will keep me from completing (list things you’re worried about completing) in a timely fashion. I will contact you again when I am able to make plans.\n\n\nWe will respond with “OK” and temporarily excuse you from things until you send a “re-connection” email to make plans for making up the work you missed, at which time he’ll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.",
+    "crumbs": [
+      "Key Information"
+    ]
+  },
+  {
+    "objectID": "01_description.html",
+    "href": "01_description.html",
+    "title": "1  Description",
+    "section": "",
+    "text": "1.1 Prerequisites\nPeople take this course with a wide range of backgrounds and a common interest in using data effectively in research related to biology or medicine. All CWRU students who feel up to it are welcome, regardless of their field of study or prior experience. Students with a working knowledge of R, multiple regression, and some familiarity with logistic regression, should be well prepared.\nI strongly encourage people to first complete the PQHS 431-432 sequence, or at least to be substantially familiar with the use of R and RStudio (as well as, ideally, R Markdown and Quarto) on the coding side, and with multivariate regression modeling and in particular logistic regression on the statistical side. Those who are unsure if they are well prepared for the course should contact the instructor for some advice.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Description</span>"
+    ]
+  },
+  {
+    "objectID": "01_description.html#everything-is-on-the-web",
+    "href": "01_description.html#everything-is-on-the-web",
+    "title": "1  Description",
+    "section": "1.2 Everything is on the Web",
+    "text": "1.2 Everything is on the Web\nhttps://thomaselove.github.io/500-2025 is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You’ll find links on the top menu for the individual elements of the course, including:\n\nThe Course Syllabus (this document)\nThe Course Calendar\n\nThe Calendar includes links to the slides and other materials for each class.\nThe Calendar is also the final word on deadlines for all assignments.\n\nMaterial about R and Data, including:\n\ndetails on software, specifically installing R and RStudio and the R packages we’ll use.\nthe 500-Data page for downloading data, code and templates for assignments.\n\nThe Sources page for additional readings assigned through the semester.\nMaterial and instructions for your Assignments, including:\n\nThe Course Project\nThe Labs\nThe Observational Studies in Action presentations\n\nA link to the Canvas system, where you’ll turn in some of your work and get connected to the Zoom sessions for the class.\nInformation on how to Contact Us if you need to.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Description</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html",
+    "href": "02_drlove.html",
+    "title": "2  Professor Love",
+    "section": "",
+    "text": "2.1 A More Complete Biography\nHi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.\nIn research, I use statistical methods to look at questions in health policy and in particular the provision of health services. I mostly work with observational data, rather than data that emerge from randomized clinical trials, and I have a special interest in working with data from electronic health records.\nIf you want to see a pretty complete list of my publications, knock yourself out.\nI hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we are raising two terrific sons. The elder lives and works in Pittsburgh and the younger is in his third year at Columbia University, my alma mater. We live in Shaker Heights. I sing and act occasionally in community theater.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html#a-more-complete-biography",
+    "href": "02_drlove.html#a-more-complete-biography",
+    "title": "2  Professor Love",
+    "section": "",
+    "text": "I am a Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.\nI direct Biostatistics and Data Science at the Population Health Research Institute and at the Center for Health Care Research and Policy at The MetroHealth System.\nFor ten years, I was the (founding) Data Director for Better Health Partnership, an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.\nI am a Fellow of the American Statistical Association, and have won numerous awards for my teaching and my research, including the 2018 John S. Diekhoff Award for Graduate Teaching from CWRU.\nI have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.\n\n\n\nYou may be interested in a recent study in Health Affairs showing the impact of a Medicaid-like expansion plan on care and outcomes of poor patients in Cleveland.\nOr you might be interested in our New England Journal of Medicine study of the effect of electronic health records on the care and outcomes of people with diabetes.\nIn 2011, James O’Malley and I chaired the Ninth International Conference on Health Policy Statistics, here in Cleveland. Here’s a recap.\nI’ve also worked on many projects involving the use of propensity scores to make causal inferences from observational studies, particularly in heart failure.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html#email",
+    "href": "02_drlove.html#email",
+    "title": "2  Professor Love",
+    "section": "2.2 Email",
+    "text": "2.2 Email\n\nThomas dot Love at case dot edu (for anything)\nProfessor Love is available after class from 11 AM to Noon for office hours. Just let him know during class that you wish to speak with him afterwards.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html#name-and-pronouns",
+    "href": "02_drlove.html#name-and-pronouns",
+    "title": "2  Professor Love",
+    "section": "2.3 Name and Pronouns",
+    "text": "2.3 Name and Pronouns\n\nProfessor Love uses he/him/his pronouns.\nMost students refer to him either as Professor Love or Dr. Love.\nHe prefers his given name to be written “Thomas” as opposed to “Tom”.\nMost of his friends and colleagues call him “Tom”. You are welcome to do so, as well, if that makes you more comfortable.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html#web",
+    "href": "02_drlove.html#web",
+    "title": "2  Professor Love",
+    "section": "2.4 Web",
+    "text": "2.4 Web\n\nDr. Love’s GitHub name is THOMASELOVE.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "02_drlove.html#offices",
+    "href": "02_drlove.html#offices",
+    "title": "2  Professor Love",
+    "section": "2.5 Offices",
+    "text": "2.5 Offices\nMy offices are:\n\nWood WG-82J on the ground floor of the Wood building on the CWRU Campus.\nRammelkamp R-229A at MetroHealth Medical Center.\n\nI hope to be healed up and back in the office after Spring Break 2025.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Professor Love</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html",
+    "href": "03_assignments.html",
+    "title": "3  Assignments",
+    "section": "",
+    "text": "3.1 Deadlines\nAll deadlines will be found on the Course Calendar.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html#the-course-project",
+    "href": "03_assignments.html#the-course-project",
+    "title": "3  Assignments",
+    "section": "3.2 The Course Project",
+    "text": "3.2 The Course Project\nYou will do a small observational study as a capstone project for the course. Your deliverables include:\n\na proposal which you will submit for my approval before proceeding further.\nan informal update verifying that you have the data and are proceeding appropriately.\na final presentation to the class about your results accompanied by an abstract, and by Quarto and HTML files that describe the work you did.\n\nInstructions for the Course Project are available here.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html#an-observational-studies-in-action-presentation",
+    "href": "03_assignments.html#an-observational-studies-in-action-presentation",
+    "title": "3  Assignments",
+    "section": "3.3 An “Observational Studies in Action” presentation",
+    "text": "3.3 An “Observational Studies in Action” presentation\nDuring the semester, you will be responsible for presenting the methods and results of an observational study from the literature that uses propensity scores. Your choice of manuscript must be accepted in advance by Dr. Love. After you’ve claimed a study, you’ll give a presentation of it, and you’ll also act as “second reviewer” for one of the studies selected by your colleagues. Some presentations will be in class, and others will be recorded.\nInstructions for the OSIA work are available here.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html#lab-assignments",
+    "href": "03_assignments.html#lab-assignments",
+    "title": "3  Assignments",
+    "section": "3.4 Lab Assignments",
+    "text": "3.4 Lab Assignments\nFour lab assignments require you to do some analyses (using R and Quarto) on data we will provide to you.\nDetails on the lab assignments are available in the Labs section of our website.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html#a-note-on-feedback",
+    "href": "03_assignments.html#a-note-on-feedback",
+    "title": "3  Assignments",
+    "section": "3.5 A Note on Feedback",
+    "text": "3.5 A Note on Feedback\n500 is a very different course from 431-432 in terms of the “hands on” assistance that I make available to you as you’re working on a lab. In particular, I’m not going to review your code to be sure you’re going in the right direction, even though I understand some of you have come to expect that from 431-432.\nInstead, we discuss the homework in class and we provide a detailed answer sketch after the fact. So if you have questions, please feel free to send them to us at 500-help at case dot edu, or ask about them in office hours, but what we are likely to say to anything we cannot resolve quickly for you (or think is worthy of deeper discussion as a group) is:\n\nThat sounds like an excellent question to bring up on Thursday in class, and\nWe’re going to let you (and everyone else) flounder a bit between now and our discussion of this homework in class.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "03_assignments.html#grading",
+    "href": "03_assignments.html#grading",
+    "title": "3  Assignments",
+    "section": "3.6 Grading",
+    "text": "3.6 Grading\n\nIf you complete all deliverables on time, and your project and OSIA presentations are solid, you will receive an A in the course.\n\nIf you mostly meet that standard but don’t quite (either because more than one thing is late or because you have substantial project problems that linger), either an A or B is possible.\n\nThis is an advanced graduate school course. I don’t anticipate that anyone who makes a concerted effort will fall below the B standard, as no one has in the past.\nIf you have any concerns, raise them with Dr. Love (email is fine) directly as soon as possible.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assignments</span>"
+    ]
+  },
+  {
+    "objectID": "04_advice.html",
+    "href": "04_advice.html",
+    "title": "4  Advice for Graduate Students",
+    "section": "",
+    "text": "4.1 On Graduate School\nFor graduate students, I urge you to take as much advantage of this learning experience as you can. While I’ll refer to some of the pieces below during the course, I’ve gathered a few favorites here.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Advice for Graduate Students</span>"
+    ]
+  },
+  {
+    "objectID": "04_advice.html#on-graduate-school",
+    "href": "04_advice.html#on-graduate-school",
+    "title": "4  Advice for Graduate Students",
+    "section": "",
+    "text": "From matt.might.net…\n\n12 Resolutions for Grad Students\nHow to get a great letter of recommendation\nHow to send and reply to email. You might also want to look at Email Etiquette: Guidelines for Writing to Your Professors\n\nFour Things You Should Do When You’re Bored, on YouTube (the four things are Exercise / Read / Meditate / Find and Engage a Hobby with Passion). Also, Get Up and Move. It May Make You Happier by Gretchen Reynolds, in the New York Times, 2017-01-25.\nWhy academics need to focus on structuring their time from University Affairs.\nMost people are really bad at meetings, including Dr. Love. Here are some extremely useful suggestions from Greg Wilson. In a tweet, Wilson argues that “the single most useful training you can give an adult is how to run a meeting and how to participate in someone else’s.”\nSome people need help taking notes. You might be interested in Cornell Note Taking or the 5 other methods described here.\nYou may be interested in the American Statistical Association, and its This is Statistics program.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Advice for Graduate Students</span>"
+    ]
+  },
+  {
+    "objectID": "04_advice.html#on-seeking-a-job",
+    "href": "04_advice.html#on-seeking-a-job",
+    "title": "4  Advice for Graduate Students",
+    "section": "4.2 On Seeking a Job",
+    "text": "4.2 On Seeking a Job\nIf I have a job or internship to offer, I’ll be noisy about it in class. In the meantime, I’d consider joining the American Statistical Association as a student member and perhaps joining the Greater Cleveland R Meetup Group.\nHere are some gathered thoughts from other folks that you might enjoy:\n\nGeneral Advice on an Academic Career Path (which is filled with useful advice, especially for those studying biostatistics.)\nAdvice for Applying to Data Science Jobs from Emily Robinson\nAcademic job search advice from matt.might.net\nCareer Advice for Data Scientists was a panel at rstudio::conf 2020 focused on building a career around R.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Advice for Graduate Students</span>"
+    ]
+  },
+  {
+    "objectID": "05_communication.html",
+    "href": "05_communication.html",
+    "title": "5  On Writing, Presenting & Communicating",
+    "section": "",
+    "text": "5.1 Campus Resources\nThe [University Resources for Student Support][University Resources for Student Support] section in this Syllabus lists several important resources for improving your English and your communication skills, most of which will be available remotely after the first week of the semester. We strongly encourage you to take advantage of these resources.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>On Writing, Presenting & Communicating</span>"
+    ]
+  },
+  {
+    "objectID": "05_communication.html#advice-from-other-people",
+    "href": "05_communication.html#advice-from-other-people",
+    "title": "5  On Writing, Presenting & Communicating",
+    "section": "5.2 Advice from Other People",
+    "text": "5.2 Advice from Other People\n\nPreparing Manuscripts for Submission to Medical Journals: The Paper Trail by H. Gilbert Welch, from Effective Clinical Practice in 1999.\n\nStart early, focus on high-visibility components, develop a systematic approach to the body of the paper, finish strong.\nUse thinkchecksubmit and see this tweet for some related suggestions when selecting a journal or publisher for your work.\n\nWriting a Scientific Paper in Four Easy Steps from Claus Wilke at The Serial Mentor blog.\nRules to write a good research paper from Daniel Lemire.\nHey-here are some tips on communicating data and statistics! from Andrew Gelman 2017-06-02.\nWriting Pet Peeves: Correctness, References, and Style from Tamara Munzner.\nFrank Harrell’s Checklist for Authors of Statistical Problems to Document and to Avoid",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>On Writing, Presenting & Communicating</span>"
+    ]
+  },
+  {
+    "objectID": "05_communication.html#a-few-tips-from-professor-love",
+    "href": "05_communication.html#a-few-tips-from-professor-love",
+    "title": "5  On Writing, Presenting & Communicating",
+    "section": "5.3 A Few Tips from Professor Love",
+    "text": "5.3 A Few Tips from Professor Love\n\nStatistics is a “getting the details right” business - we care deeply about details, and this applies to writing code or complete English sentences. RStudio has a spell-checker. To use it, click F7.\nNothing impresses us as much as a clear and concise argument, presented using well-written English sentences, effective and well-labeled figures and tables.\nDon’t parrot back material that Professor Love wrote or said. State ideas in your own words. Stating them in my words is, technically, plagiarism.\nEdit your more adventurous output; don’t present everything you know how to do in R, and don’t forget that someone is trying to read both your code and your results.\nMake your work easy to evaluate. In responding to an assignment, be sure to answer the question that was asked, restating it as necessary.\nClearly label everything: graphs, tables, your answer to a specific question. Everything. Again, make your work easy to evaluate.\nSimplify. Emphasize ideas in plain language. Avoid jargon. Use English well.\nData are plural. Use “the data are …” rather than ``the data is … ’’\nA paragraph must contain more than one sentence.\n\nDon’t switch tenses. If you want to write in the present tense, stick to it throughout.\nDon’t write or say random sample unless you used a random number generator. If you used haphazard sampling or convenience sampling, call it what it is, and indicate whether any problems could have cropped up as a result.\nSimilarly, don’t defend a method of data collection because it is random. Most of the time we want to represent some population, and a random sample is just one way to ensure that certain types of biases have a low probability of creeping in.\nIf you want to write that you used \\(\\alpha = 0.05\\) as your significance level, then state that your results were obtained using a 95% confidence level, not a 95% confidence interval, unless you are actually interpreting a confidence interval.\n\nIf you find yourself in the appalling situation of writing about a p-value, then you should state something like:\n\n[1] We’re using a 95% confidence level.\n[2] We’re using a 5% significance level.\n\n[3] We’re using \\(\\alpha = 0.05\\).\n\nDon’t use more than one of these expressions.\n\nAgain, don’t use p-values in most settings, but if you must, refer to all p-values that are less than 0.001 or perhaps less than 0.0001 as \\(p &lt; 0.001\\), rather than, for instance, \\(p = 0.00000001\\) or, worse yet, \\(p = 0\\). In a similar vein, write all \\(p\\)-values that exceed 0.99 as \\(p &gt; 0.99\\) instead of, for instance, \\(p  = 1\\).\nTo the extent possible, don’t use computer-ese to label variables, plots or tables. R and Markdown allow you to change the labels on graphs and tables to meaningful things – do so. Use meaningful abbreviations, as necessary, explaining what they mean on the first usage.\nWhen in doubt, err on the side of clarity. Clear thinking, clear writing.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>On Writing, Presenting & Communicating</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html",
+    "href": "06_other_policies.html",
+    "title": "6  Other Policies",
+    "section": "",
+    "text": "6.1 Statement on Disability\nIn accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. Students with a disability, please make an appointment with the instructor to discuss your needs at the earliest convenience. The necessary adjustments will be provided to facilitate the learning experience. Additionally, please be in contact with the Coordinator of Disability Resources, Educational Services for Students (ESS). ESS is located in 470 Sears Building. The office phone number is 216-368-5230, and the website is: http://studentaffairs.case.edu/education/disability/policy.html\nPlease keep in mind that accommodations are not retroactive.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html#incomplete-grades",
+    "href": "06_other_policies.html#incomplete-grades",
+    "title": "6  Other Policies",
+    "section": "6.2 Incomplete Grades",
+    "text": "6.2 Incomplete Grades\nThe grade of Incomplete is assigned at the discretion of an instructor provided that:\n\nThere are extenuating circumstances, explained to the instructor before the assignment of the grade, which clearly justify an extension of time beyond the requirements established for other students in the class. It is the student’s responsibility to notify the instructor of the circumstances preventing completion.\nThe student has been passing the course and only a small segment of the course remains to be completed, such as a term paper, for which the extenuating circumstances justify a special exception.\n\nAn Incomplete grade may not be assigned if a student is absent from a final examination, unless the dean has authorized the absence. Unauthorized absence from a final examination will result in a failing grade. When the student completes the work, the Incomplete is changed to an A, B, C, D, P, F, or NP.\nAll work for the incomplete grade must be made up and the change of grade recorded in the Office of the University Registrar by the date specified by the instructor, but no later than the last day of class in the semester following the one in which the Incomplete was received. A student who has a permanent Incomplete for a required course must retake the course in a later term. If the student cannot complete the work by the end of the following semester, he or she must petition for an extension which must be endorsed by the instructor, explain the reasons why the work has not been completed, and include a new date for completion. Students will be allowed only one extension of no more than one additional semester to complete the work for an Incomplete grade.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html#laptop-and-cell-phone-use",
+    "href": "06_other_policies.html#laptop-and-cell-phone-use",
+    "title": "6  Other Policies",
+    "section": "6.3 Laptop and cell phone use",
+    "text": "6.3 Laptop and cell phone use\nAlthough having a laptop in class opens up new learning possibilities for students, it can be used in ways that are inappropriate. It is easy for your laptop to become a distraction to you and to those around you. Laptops are to be used only when essential to the task at hand. Please turn off or silence all cell/smart phones, tablets, and other electronic devices for the duration of the course. Inappropriate uses will be noted and may affect the final grade.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html#diversity-and-inclusion",
+    "href": "06_other_policies.html#diversity-and-inclusion",
+    "title": "6  Other Policies",
+    "section": "6.4 Diversity and Inclusion",
+    "text": "6.4 Diversity and Inclusion\nIt is the intent that all students regardless of their background and perspective be well-served by this class. Further, we intend to present material whose content is respectful of diversity (gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture) and deliver it in a way that respects these differences as well. We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom.\nIf you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to the instructor. If you are not comfortable reaching out to the instructor, feel free to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu).\nMore information on University policy and resources are available on OIDEO’s website at https://case.edu/diversity/.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html#academic-integrity",
+    "href": "06_other_policies.html#academic-integrity",
+    "title": "6  Other Policies",
+    "section": "6.5 Academic Integrity",
+    "text": "6.5 Academic Integrity\nAny violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another’s work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another’s words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor’s consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another’s ability to conduct scholarly activity. Destroying a student’s computer file, stealing a student’s notebook, and stealing a book on reserve in the library are examples of obstruction.\nIn addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students.\nThe CWRU Statement of Ethics for graduate students can be found here: http://case.edu/gradstudies/about-the-school/policies-procedures/",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  },
+  {
+    "objectID": "06_other_policies.html#plagiarism",
+    "href": "06_other_policies.html#plagiarism",
+    "title": "6  Other Policies",
+    "section": "6.6 Plagiarism",
+    "text": "6.6 Plagiarism\nUnless specifically stated otherwise, the faculty of the PQHS expect and require original writing for all assignments given. Submitting plagiarized work for an academic requirement is a violation of the academic integrity standards set forth by the University. Plagiarism is the representation of another’s work or ideas as one’s own; it includes the unacknowledged, word-for-word use and/or paraphrasing of another person’s work, and/or the inappropriate unacknowledged use of another person’s ideas. Submitting substantially the same work to satisfy requirements for one course that has been submitted in satisfaction of requirements for another course, without permission of the instructor of the course for which the work is being submitted, is also prohibited.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Other Policies</span>"
+    ]
+  }
+]

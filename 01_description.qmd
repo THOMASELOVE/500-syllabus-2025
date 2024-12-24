@@ -1,0 +1,30 @@
+# Description
+
+PQHS 500 (cross-listed as CRSP 500) is a one-semester advanced course in modern design and analysis of observational studies, usually in the context of comparative effectiveness research, with a special emphasis on issues that arise in clinical and health services research.
+
+An observational study is an empirical investigation of treatments, policies or exposures and the effects that they cause, but it differs from an experiment in that the investigator cannot control the assignment of treatments to subjects. This course is designed to introduce design, data collection and analysis methods appropriate for scientists engaged in observational studies, and will prepare students to design and interpret their own studies, as well as those of others in their field. Technical formalities will be minimized, and the presentations will focus on the practical application of methods and strategies. 
+
+## Prerequisites
+
+People take this course with a wide range of backgrounds and a common interest in using data effectively in research related to biology or medicine. All CWRU students who feel up to it are welcome, regardless of their field of study or prior experience. Students with a working knowledge of R, multiple regression, and some familiarity with logistic regression, should be well prepared.
+
+I strongly encourage people to first complete the PQHS 431-432 sequence, or at least to be substantially familiar with the use of R and RStudio (as well as, ideally, R Markdown and Quarto) on the coding side, and with multivariate regression modeling and in particular logistic regression on the statistical side. Those who are unsure if they are well prepared for the course should contact the instructor for some advice.
+
+## Everything is on the Web
+
+<https://thomaselove.github.io/500-2025> is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You'll find links on the top menu for the individual elements of the course, including:
+
+- The Course Syllabus (this document)
+- The [Course Calendar](https://thomaselove.github.io/500-2025/calendar.html) 
+    - The Calendar includes links to the slides and other materials for each class.
+    - The Calendar is also the final word on deadlines for all assignments.
+- Material about R and Data, including:
+    - details on [software](https://thomaselove.github.io/500-2025/software.html), specifically installing R and RStudio and the R packages we'll use.
+    - the [500-Data](https://github.com/THOMASELOVE/500-data) page for downloading data, code and templates for assignments.
+- The [Sources page](https://github.com/THOMASELOVE/500-sources) for additional readings assigned through the semester.
+- Material and instructions for your Assignments, including:
+    - The [Course Project](https://thomaselove.github.io/500-2025/proj500.html)
+    - The [Labs](https://thomaselove.github.io/500-2025/lab0.html)
+    - The [Observational Studies in Action](https://thomaselove.github.io/500-2025/osia.html) presentations
+- A link to the [Canvas system](https://canvas.case.edu/), where you'll turn in some of your work and get connected to the Zoom sessions for the class.
+- Information on how to [Contact Us](https://thomaselove.github.io/500-2025/contact.html) if you need to.

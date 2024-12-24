@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "500 Syllabus for Spring 2025"
+  author: "Thomas E. Love"
+  date: last-modified
+  date-format: iso
+  downloads: pdf
+  chapters:
+    - index.qmd
+    - 01_description.qmd
+    - 02_drlove.qmd
+    - 03_assignments.qmd
+    - 04_advice.qmd
+    - 05_communication.qmd
+    - 06_other_policies.qmd
+
+format:
+  html:
+    theme: zephyr
+    code-overflow: wrap
+  pdf:
+    documentclass: scrreprt
